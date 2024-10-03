@@ -38,10 +38,10 @@ With **4+ years** of hands-on experience in building scalable and high-performan
 ---
 
 ### 🤝 Let's Connect:
-- 📧 **Email:** [your.email@example.com](mailto:jeyabaskar005@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/jeyabaskar-a)
-- 🐦 **Twitter:** [@YourHandle](https://twitter.com/Jeyabaskar2)
-- 🌐 **Portfolio:** [Your Portfolio](https://ajbaskar.in)
+- 📧 **Email:** [jeyabaskar005@gmail.com](mailto:jeyabaskar005@gmail.com)
+- 💼 **LinkedIn:** [Jeyabaskar A](https://www.linkedin.com/in/jeyabaskar-a)
+- 🐦 **Twitter:** [@Jeyabaskar2](https://twitter.com/Jeyabaskar2)
+- 🌐 **Portfolio:** [ajbaskar.in](https://ajbaskar.in)
 
 ---
 
