@@ -1,49 +1,54 @@
-# 👋 Hi there! I'm Jeyabaskar!
+# 👋 Hey there! I'm Jeyabaskar!
 
-### Full Stack Developer | Open Source Contributor | Freelancer
+### 🚀 Full Stack Developer | 🌱 Open Source Contributor | 💼 Freelancer
 
-With **4+ years** of experience in full-stack development, I've worked on a diverse range of technologies and platforms. My expertise spans across **front-end** and **back-end** development, including:
+With **4+ years** of hands-on experience in building scalable and high-performance applications, I specialize in delivering end-to-end solutions for web and mobile. My stack spans across **front-end**, **back-end**, and **mobile development**, and I’m passionate about contributing to the tech community.
 
-- **Front-end:** React.js, Next.js, React Native, WordPress
-- **Back-end:** Node.js, Nest.js, PHP
-- **Mobile Development:** Android Native (Kotlin/Java), React Native
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other tools:** Express.js, REST APIs, GraphQL
+---
 
-Currently, I'm diving into **open-source contributions** and available for **freelance projects**. If you're looking for a developer with a passion for building high-quality software, feel free to reach out!
+### 🛠 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 What I'm up to:
-- 🌱 Contributing to exciting **open-source projects**
-- 💼 Working on **freelance projects** in web and mobile development
-- 🧠 Exploring new tech stacks and staying updated with industry trends
-- 🎯 Creating apps with **React**, **Next.js**, and **Node.js**
+- 🔥 Contributing to **open-source projects**
+- 👨‍💻 Working on exciting **freelance projects**
+- 🛠 Exploring new tools & technologies
+- 🌐 Building **React** and **Next.js** apps for the web and mobile
 
 ---
 
-### 🔧 Tools & Technologies:
-| Technology      | Expertise   |
-| --------------- | ----------- |
-| React.js        | ★★★★☆       |
-| Next.js         | ★★★★☆       |
-| React Native    | ★★★★☆       |
-| Node.js         | ★★★★☆       |
-| Nest.js         | ★★★★☆       |
-| PHP             | ★★★★☆       |
-| WordPress       | ★★★★☆       |
-| Android (Native)| ★★★★☆       |
-| MySQL/PostgreSQL| ★★★★☆       |
-| REST/GraphQL    | ★★★★☆       |
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeyabaskar2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyabaskar2&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-### 📫 How to reach me:
-- **Email:** [your.email@example.com](mailto:jeyabaskar005@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/jeyabaskar-a)
-- **Twitter:** [@YourHandle](https://twitter.com/Jeyabaskar2)
-- **Portfolio:** [Your Portfolio Website](https://ajbaskar.in)
+### 🤝 Let's Connect:
+- 📧 **Email:** [your.email@example.com](mailto:jeyabaskar005@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/jeyabaskar-a)
+- 🐦 **Twitter:** [@YourHandle](https://twitter.com/Jeyabaskar2)
+- 🌐 **Portfolio:** [Your Portfolio](https://ajbaskar.in)
 
 ---
 
-### 🌱 Let's build something great together!
+### ✨ Fun Facts:
+- 🎮 When I’m not coding, you can find me playing video games or exploring the latest gadgets.
+- 🎨 I love experimenting with **UI/UX** design and creating visually appealing user interfaces.
+
+---
+
+### 🌱 Let's build something amazing together!
